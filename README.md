@@ -24,7 +24,7 @@ Tech Stack
 Getting Started
 
 ```bash
-git clone https://github.com/your-username/pathfinding-visualizer.git
+git clone https://github.com/sb835/pathfinding-visualizer.git
 cd pathfinding-visualizer
 npm install
 npm run dev
